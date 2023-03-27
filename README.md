@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @AlondRosas15
-- 👀 I’m interested in game programming.
-- 🌱 I’m currently learning about Java and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in game programming and cyber security. 
+- 🌱 I’m currently learning about C++.
+- Full-time student working on geting my Bachelor's in Computer Science.
+- 
+
+
 
 <!---
 AlondRosas15/AlondRosas15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
