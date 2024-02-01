@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlondRosas15
-- 👀 I’m interested in game programming and cyber security. 
-- 🌱 I’m currently learning about C++.
+- 👀 I’m interested in full-stack engineering. 
+- 🌱 I’m currently learning about Flutter/Dart
 - Full-time student working on geting my Bachelor's in Computer Science.
 - 
 
