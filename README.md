@@ -4,7 +4,7 @@
 - Passionate about women and Latino representation in tech!
 - Currently working on full-stack applications. The current project is the Startup-Launchpad. Portfolio will be coming soon.
 - Love to incorporate tech in advocacy, beauty, social impacts, and problems that first-gen students face. 
-- Former Secretary of the Association FOR Computing Machinery, Gettysburg Chapter from 2023-24.
+- Former Secretary of the Association for Computing Machinery, Gettysburg Chapter from 2023-24.
 
 
 
